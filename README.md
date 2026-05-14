@@ -45,8 +45,8 @@ Sales-Project/
 │   └── sales_queries.sql       — 6 SQL analysis queries
 └── 📊 sales_dashboard.pbix     — Power BI Dashboard
 
-📊 Dashboard Preview
-![Dashboard](outputs/sales_dashboard.png)
+📊 Dashboard Preview)
+![Dashboard](outputs/sales_dashboard.png.png)
 
 🔍 Analysis Steps
 1. **Data Loading & Exploration** — Loaded 9,994 orders with 21 columns
