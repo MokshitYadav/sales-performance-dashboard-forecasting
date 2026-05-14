@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.13-blue)
 ![PowerBI](https://img.shields.io/badge/PowerBI-Dashboard-yellow)
-![ML](https://img.shields.io/badge/ML-RandomForest_88%25_Accuracy-green)
+![ML](https://img.shields.io/badge/ML-Random%20Forest_88%25-green)
 ![SQL](https://img.shields.io/badge/SQL-6%20Queries-orange)
 
 📌 Project Overview
